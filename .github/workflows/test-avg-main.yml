@@ -1,4 +1,4 @@
-name: CMake
+name: test-avg-main
 
 on:
   push:
